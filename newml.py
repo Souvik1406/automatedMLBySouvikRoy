@@ -10,7 +10,7 @@ def main():
     #st.title("Personal Loan Authenticator")
     html_temp = """
     <div style="background-color:tomato;padding:10px">
-    <h2 style="color:white;text-align:center;">Automatic Machine Learning </h2>
+    <h2 style="color:white;text-align:center;">Souvik Roy's Auto ML App ©Souvik1406 </h2>
     </div>
     """
     st.markdown(html_temp,unsafe_allow_html=True)
